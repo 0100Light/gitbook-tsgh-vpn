@@ -1,0 +1,6 @@
+- [Introduction](README.md)
+- [Setting up](setting_up/README.md)
+  - [Windows](setting_up/windows.md)
+- [FAQ](/FAQ/README.md)
+  - [連線後無法直接進入Progress Note](./FAQ/wired-reg.md)
+  - [MAC位址重覆](./FAQ/repeated-mac.md)
